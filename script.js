@@ -1,5 +1,5 @@
 console.log("This is Script");
-const newYr = "1 jan 2021";
+const newYr = "1 jan 2022";
 
 const daysEl = document.getElementById("daysEl");
 const hrsEl = document.getElementById("hrsEl");
